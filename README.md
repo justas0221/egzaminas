@@ -1,0 +1,2 @@
+# egzaminas
+Išankstinė egzamino užduotis
